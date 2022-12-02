@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a personal proyect called **"All I Know"**
 
-- 🌱 I’m currently learning **Springboot, Python, Java, JavaScript, Android Development,**
+- 🌱 I’m currently learning **Springboot, Angular, Python, Java, JavaScript and Android**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
