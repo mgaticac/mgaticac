@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcelo Gatica</h1>
 <h3 align="center">passionate Java & Python developer from Chile!</h3>
 
-- 🔭 I’m currently working on a personal proyect called **"All I Know"**
+- 🔭 I’m currently working on multiple proyects called **"Build your own X"**
 
-- 🌱 I’m currently learning **Springboot, Angular, Python, Java, JavaScript, Android and Unity**
+- 🌱 I’m currently learning **Springboot, Python, Java, JavaScript**
 
 - 📫 How to reach me **m.gaticacontreras@gmail.com**
 
