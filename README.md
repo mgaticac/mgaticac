@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcelo Gatica</h1>
 <h3 align="center">passionate Java & Python developer from Chile!</h3>
 
-- 🔭 I’m currently working on multiple proyects called **"Build your own X"**
+- 🔭 I’m currently working on a web page called **"Security x"**
 
 - 🌱 I’m currently learning **Springboot, Python, Java and JavaScript**
 
